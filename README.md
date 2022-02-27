@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Novak
-- 👀 I’m interested in automation, 
-- 🌱 I’m currently learning android development
+- 👀 I’m interested in automation, reverse engineering, breaking things
+- 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on open source projects that improve people's lives
 - 📫 Send me a message if you want to contact me
